@@ -22,8 +22,8 @@
 [![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://twitter.com/cjram11#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://twitter.com/cjram11#gh-dark-mode-only)
 <!-- &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only) -->
@@ -47,14 +47,11 @@
 <br />
 
 ---
-
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>GitHub Stats</summary>
 
   <img align="left" alt="cjislegit's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=cjislegit&show_icons=true&hide_border=false&title_color=62dafc&icon_color=62dafc&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
-</details>
+
 
 [website]: https://cjramirez.tech
 [twitter]: https://twitter.com/cjram11
