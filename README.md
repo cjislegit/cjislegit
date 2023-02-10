@@ -1,7 +1,7 @@
 # Hi there, I'm Carlos 👋 
 
 
-[![Website](https://img.shields.io/website?label=cjramirez.tech&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://cjramirez.tech)
+[![Website](https://img.shields.io/badge/cjramirez.tech-%3C%2F%3E-brightgreen?style=for-the-badge)](https://cjramirez.tech)
 [![Twitter Follow](https://img.shields.io/twitter/follow/cjram11?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/user?screen_name=cjram11)
 
 
