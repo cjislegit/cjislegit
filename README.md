@@ -7,8 +7,7 @@
 
 ## I'm a Full-Stack Developer
 
-- 🌱 I’m currently learning WordPress development
-- 🥅 2023 Goals: Take part in at least one hackathon
+- 🌱 I’m currently learning Swift
 - ⚡ Fun fact: I have a Blue Heeler named Indigo
 
 ### Connect with me:
